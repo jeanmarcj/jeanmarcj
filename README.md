@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeanmarcj
+- 👋 Hi, I’m Jean-Marc
 - 👀 I’m interested in web coding and I love Symfony php framework
 - 🌱 I’m currently learning react javascript framework & node.js
 - 💞️ I’m looking to collaborate on Symfony project
